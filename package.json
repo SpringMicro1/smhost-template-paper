@@ -26,20 +26,18 @@
     "astro": "^2.7.2",
     "astro-icon": "^0.8.1",
     "astro-seo": "^0.7.4",
-    "playwright": "^1.39.0",
-    "pm2": "^5.3.0",
     "react": "^18.2.0",
     "react-datepicker": "^4.16.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
     "sharp": "^0.32.1",
     "smhost-template-forms": "^0.2.1",
-    "smhost-template-scripts": "^0.5.0",
     "tailwindcss": "^3.3.2"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "daisyui": "^3.1.7",
+    "smhost-template-scripts": "^0.5.0",
     "react-daisyui": "^4.0.0"
   }
 }
