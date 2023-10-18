@@ -1,12 +1,12 @@
 {
-  "name": "coming-soon",
+  "name": "typewriter",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "buildlocal": "astro build && npm run buildlocal --prefix node_modules/smhost-template-scripts",
-    "build": "astro build && npm run build --prefix node_modules/smhost-template-scripts",
+    "buildlocal": "astro build && playwright install && npm run buildlocal --prefix node_modules/smhost-template-scripts",
+    "build": "astro build && playwright install && npm run build --prefix node_modules/smhost-template-scripts",
     "preview": "astro preview",
     "astro": "astro"
   },
