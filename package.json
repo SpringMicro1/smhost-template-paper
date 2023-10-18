@@ -32,14 +32,12 @@
     "react-icons": "^4.10.1",
     "sharp": "^0.32.1",
     "smhost-template-forms": "^0.2.1",
+    "smhost-template-scripts": "^0.5.0",
     "tailwindcss": "^3.3.2"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "daisyui": "^3.1.7",
-    "playwright": "^1.39.0",
-    "pm2": "^5.3.0",
-    "react-daisyui": "^4.0.0",
-    "smhost-template-scripts": "^0.5.0"
+    "react-daisyui": "^4.0.0"
   }
 }
